@@ -1,0 +1,22 @@
+
+GUI Graphical user interface
+
+Bash is a linux command
+
+Commands to enter in bash terminal -
+
+*git status
+
+*git init - init stands for initialisation
+
+git add 1.txt for a single file
+
+*git add . - . represents all/multiple files
+
+git commit -m It,s your local storage area. Before storing it will be in it. Commit is for commiting the code & stands for message
+
+*git commit -m "I have created a file 1.txt"
+
+Incase of error: Run
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
